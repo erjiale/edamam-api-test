@@ -1,4 +1,6 @@
 ## Instructions
+Change directory (cd) to root directory of repo:
+
 ### 1) `npm install`
 ### 2) `npm start`
 
